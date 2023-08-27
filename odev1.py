@@ -1,4 +1,3 @@
-
 num_list = [100, 1, 43, 5, 12, 32, 54, 20, 12, 3]
 temp_list = num_list.copy()
 sorted_list = []
